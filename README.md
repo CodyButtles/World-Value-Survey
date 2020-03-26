@@ -1,7 +1,7 @@
 # World-Value-Survey
 This is an assignment that was given to me in my data mining class where we were tasked to investigate data regarding responses from US citizens for the World Value Survey. The survey includes over 250 questions ranging from religion to financial well-being.
 
-I utilized RStudio to create predictive models on how happy individuals are in their life based on responses to other questions in the survey. Not only will this be helpful in predicting others happiness based on different information, but we can discover what information correlates with happiness.
+I utilized RStudio to create predictive models on how satisfied individuals are in their life based on responses to other questions in the survey. Not only will this be helpful in predicting others happiness based on different information, but we can discover what information correlates with happiness.
 
 ### Dependent and Indepent Variables 
 Question V23 is asking individuals how satisfied they are with their life and will be acting as my dependent variable. The following questions were used as my independent variables:
