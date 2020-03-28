@@ -32,7 +32,7 @@ The distribution of responses for V102(family trust) where 1 is "trust completel
 The distribution of responses for V152(importance of religion) where 10 is "very important" and 1 is "not at all important":
 ![V152Bar](Images/V152Bar.png)
 
-The distribution of responses for V238(economic class) where 1 is "upper class", 2 is "upper middle class", 3 is "lower middle class", 4 is "working class", and 5 is "lower class":
+The distribution of responses for V238(economic class) where 1 is "upper class", 2 is "upper middle class", 3 is "lower middle class", 4 is "working class", and 5 is "lower class". This assignment asked to regroup the classes as depicted in the image:
 
 ![V238RegroupedBar](Images/V238RegroupedBar.png)
 
