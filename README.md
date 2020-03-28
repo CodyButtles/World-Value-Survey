@@ -20,6 +20,7 @@ The distribution of responses for V55(freedom of choice) where 10 is "a great de
 ![V55Bar](Images/V55Bar.png)
 
 The distribution of responses for V56(if people are fair) where 10 is "people would try to be fair" and 1 is "people would try to take advantage of you":
+
 ![V56Bar](Images/V56Bar.png)
 
 The distribution of responses for V59(financial satisfaction) where 10 is "completely satisfied" and 1 is "completely dissatisfied":
@@ -32,7 +33,8 @@ The distribution of responses for V152(importance of religion) where 10 is "very
 ![V152Bar](Images/V152Bar.png)
 
 The distribution of responses for V238(economic class) where 1 is "upper class", 2 is "upper middle class", 3 is "lower middle class", 4 is "working class", and 5 is "lower class":
-![V238Bar](Images/V238Bar.png)
+
+![V238RegroupedBar](Images/V238RegroupedBar.png)
 
 The distribution of responses for V240(gender) where 0 is "female" and 1 is "male":
 ![V240DummyBar](Images/V240DummyBar.png)
