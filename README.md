@@ -16,3 +16,5 @@ Question V23 is asking individuals how satisfied they are with their life and wi
 - V240 references what sex the respondent is.
 
 ### Investigating Variables
+The distribution of responses for V55(freedom of choice):
+(images/V55Bar.png)
