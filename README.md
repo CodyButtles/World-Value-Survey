@@ -42,4 +42,4 @@ The distribution of responses for V240(gender) where 0 is "female" and 1 is "mal
 ## Models
 The first linear model I created took all independent variables into consideration. Below is the summary description for the first model. We can see which variables were significant and also that the R-Squared value was 0.4854.
 
-![RegModelSum](Images/RegModelSum.png)
+![regModelSum](Images/regModelSum.png)
