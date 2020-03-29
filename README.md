@@ -55,6 +55,19 @@ Here is the summary for the male model where the R-Squared was 0.4619:
 ![maleSum](Images/maleSum.png)
 
 #### Economic Class Segmentation Model
-The third model I made grouped the data by the economic classes that the respondents identified with. The 3 groups I made represented respondents who answered 1 or 2 for question V238, 3 as a separate group, and then 4 or 5 as the last group. Then I made training and testing for each group and a model for each. Finally, I combined predicted and actual values similar to the gender model for evaluation later. Here is the summary for the 1 and 2 group:
+The third model I made grouped the data by the economic classes that the respondents identified with. The 3 groups I made represented respondents who answered 1 or 2 for question V238, 3 as a separate group, and then 4 or 5 as the last group. Then I made training and testing for each group and a model for each. Finally, I combined predicted and actual values similar to the gender model for evaluation later. Here is the summary for the 1 and 2 group with an R-Squared of 0.4199:
 
+![12Sum](12Sum.png)
+
+Here is the summary for group 3 with an R-Squared of 0.4654:
+
+![3Sum](3Sum.png)
+
+Here is the summary for group 4 and 5 with an R-Squared of 0.4151:
+
+![45Sum](45Sum.png)
+
+## Conclusion and Evaluation of Models
+
+When evaluating each of these models I utilized the measures of Min-Max Accuracy and MAPE(Mean Absolute Percentage Error).
 
