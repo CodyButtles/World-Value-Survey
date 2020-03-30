@@ -78,7 +78,7 @@ Now in this table we can see how each model compared to each other based on thes
 Model | Min-Max Accuracy | MAPE
 ----- | ---------------- | ----
 Model 1 | 0.8713316 | 0.2446299
-Gender Model | 0.8764041 | 0.1794001 
+**Gender Model | 0.8764041 | 0.1794001** 
 Economic Class Model | 0.8706282 | 0.2162147
 
-
+We can now see which linear regression model performed the best and how segmenting your data into different groups can make a difference in modeling. The gender model outperformed the other models in the min-max accuracy and significantly better in the MAPE score. Therefore, when choosing a model to try and predict individual's life satisfaction we would want to use the Gender Model. 
